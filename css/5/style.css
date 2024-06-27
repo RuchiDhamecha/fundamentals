@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    padding: 8px;
+    background-color: orange;
+    margin-top: 32px;
+    position: static;
+}
+
+.child {
+    padding: 16px;
+    border: thin solid black;
+    margin: 8px 0px;
+}
+
+.child:nth-child(1) {
+    background-color: red;
+    /* 
+        top left bottom right will have no effect
+        when position is static    
+    */
+    /* top: 8px */
+
+    /* position: absolute; */
+    top: 190px;
+    height: 100px;
+    width: 100px;
+}
+
+.child:nth-child(2) {
+    background-color: green;
+    position: relative;
+    /* top always wins */
+    /* top: -8px; */
+    /* bottom: 16px; */
+
+    /* top: 8px; */
+    /* left: 8px; */
+}
+
+.child:nth-child(3) {
+    position: relative;
+    /* left always wins */
+    /* left: 32px; */
+    /* right: 0px; */
+    background-color: blue;
+}
+
+.child:nth-child(4) {
+    /* position: absolute; */
+    background-color: yellow;
+}
+
+.child:nth-child(5) {
+    background-color: teal;
+}
+
+.childs {
+    /* position: absolute;
+    background-color: magenta;
+
+    padding: 0px;
+    margin: 0px;
+
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px; */
+    /* z-index: -1; */
+}
+
+.black {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+
+    background-color: black;
+    top: 0;
+    left: 0;
+}
+
+.scroll {
+    height: 1500px;
+}
+
+.fixed {
+    position: fixed;
+}

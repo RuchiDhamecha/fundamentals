@@ -1,0 +1,603 @@
+[
+    {
+        "name": "A",
+        "batch": "B1",
+        "techTrack": "Node",
+        "isAnalytical": true,
+        "isLogical": true,
+        "codewarsScore": 453,
+        "weeklyEvaluations": [
+            {
+                "week": 1,
+                "logic": 7,
+                "grasping": 6,
+                "communication": 7.5,
+                "assignments": 8,
+                "probmlemSolving": 6.5,
+                "proactiveness": 7
+            },
+            {
+                "week": 2,
+                "logic": 5.0,
+                "grasping": 4.9,
+                "communication": 4.5,
+                "assignments": 0.3,
+                "probmlemSolving": 7.7,
+                "proactiveness": 8.2
+            },
+            {
+                "week": 3,
+                "logic": 3.9,
+                "grasping": 3.4,
+                "communication": 4.6,
+                "assignments": 7.6,
+                "probmlemSolving": 8.9,
+                "proactiveness": 6.8
+            },
+            {
+                "week": 4,
+                "logic": 6.4,
+                "grasping": 4.5,
+                "communication": 3.1,
+                "assignments": 9.8,
+                "probmlemSolving": 9.5,
+                "proactiveness": 3.1
+            },
+            {
+                "week": 5,
+                "logic": 4.9,
+                "grasping": 0.8,
+                "communication": 2.4,
+                "assignments": 4.7,
+                "probmlemSolving": 5.7,
+                "proactiveness": 1.9
+            },
+            {
+                "week": 6,
+                "logic": 5.7,
+                "grasping": 9.7,
+                "communication": 3.4,
+                "assignments": 3.5,
+                "probmlemSolving": 9.4,
+                "proactiveness": 6.7
+            },
+            {
+                "week": 7,
+                "logic": 4.6,
+                "grasping": 5.9,
+                "communication": 0.6,
+                "assignments": 8.5,
+                "probmlemSolving": 4.4,
+                "proactiveness": 2.9
+            },
+            {
+                "week": 8,
+                "logic": 9.0,
+                "grasping": 5.4,
+                "communication": 3.8,
+                "assignments": 9.7,
+                "probmlemSolving": 7.1,
+                "proactiveness": 9.3
+            },
+            {
+                "week": 9,
+                "logic": 10.0,
+                "grasping": 2.8,
+                "communication": 3.0,
+                "assignments": 6.8,
+                "probmlemSolving": 9.8,
+                "proactiveness": 7.9
+            },
+            {
+                "week": 10,
+                "logic": 2.4,
+                "grasping": 6.7,
+                "communication": 7.3,
+                "assignments": 3.6,
+                "probmlemSolving": 3.8,
+                "proactiveness": 0.5
+            }
+        ]
+    },
+    {
+        "name": "Person 1",
+        "batch": "B2",
+        "techTrack": "React",
+        "isAnalytical": true,
+        "isLogical": true,
+        "codewarsScore": 621,
+        "weeklyEvaluations": [
+            {
+                "week": 1,
+                "logic": 7.5,
+                "grasping": 5.4,
+                "communication": 8.2,
+                "assignments": 9.1,
+                "probmlemSolving": 6.2,
+                "proactiveness": 7.9
+            },
+            {
+                "week": 2,
+                "logic": 4.3,
+                "grasping": 9.8,
+                "communication": 3.6,
+                "assignments": 3.9,
+                "probmlemSolving": 5.1,
+                "proactiveness": 9.2
+            },
+            {
+                "week": 3,
+                "logic": 3.1,
+                "grasping": 8.4,
+                "communication": 7.5,
+                "assignments": 5.2,
+                "probmlemSolving": 4.8,
+                "proactiveness": 6.3
+            },
+            {
+                "week": 4,
+                "logic": 9.0,
+                "grasping": 3.7,
+                "communication": 2.9,
+                "assignments": 8.6,
+                "probmlemSolving": 7.4,
+                "proactiveness": 1.5
+            },
+            {
+                "week": 5,
+                "logic": 5.2,
+                "grasping": 2.1,
+                "communication": 0.7,
+                "assignments": 4.3,
+                "probmlemSolving": 9.1,
+                "proactiveness": 5.8
+            },
+            {
+                "week": 6,
+                "logic": 8.7,
+                "grasping": 6.3,
+                "communication": 4.2,
+                "assignments": 2.8,
+                "probmlemSolving": 3.5,
+                "proactiveness": 7.1
+            },
+            {
+                "week": 7,
+                "logic": 4.9,
+                "grasping": 0.5,
+                "communication": 9.6,
+                "assignments": 6.5,
+                "probmlemSolving": 8.2,
+                "proactiveness": 2.4
+            },
+            {
+                "week": 8,
+                "logic": 3.8,
+                "grasping": 7.2,
+                "communication": 5.1,
+                "assignments": 9.9,
+                "probmlemSolving": 5.7,
+                "proactiveness": 4.6
+            },
+            {
+                "week": 9,
+                "logic": 6.1,
+                "grasping": 1.9,
+                "communication": 8.3,
+                "assignments": 7.1,
+                "probmlemSolving": 2.3,
+                "proactiveness": 3.9
+            },
+            {
+                "week": 10,
+                "logic": 2.7,
+                "grasping": 5.6,
+                "communication": 4.1,
+                "assignments": 3.2,
+                "probmlemSolving": 9.8,
+                "proactiveness": 8.5
+            }
+        ]
+    },
+    {
+        "name": "Person 20",
+        "batch": "B1",
+        "techTrack": "Flutter",
+        "isAnalytical": true,
+        "isLogical": false,
+        "codewarsScore": 783,
+        "weeklyEvaluations": [
+          {
+            "week": 1,
+            "logic": 5.3,
+            "grasping": 8.7,
+            "communication": 3.1,
+            "assignments": 9.4,
+            "probmlemSolving": 7.9,
+            "proactiveness": 2.5
+          },
+          {
+            "week": 2,
+            "logic": 2.6,
+            "grasping": 1.2,
+            "communication": 5.8,
+            "assignments": 4.7,
+            "probmlemSolving": 9.3,
+            "proactiveness": 8.1
+          },
+          {
+            "week": 3,
+            "logic": 8.0,
+            "grasping": 6.5,
+            "communication": 1.9,
+            "assignments": 2.3,
+            "probmlemSolving": 4.2,
+            "proactiveness": 5.7
+          },
+          {
+            "week": 4,
+            "logic": 4.1,
+            "grasping": 0.9,
+            "communication": 7.2,
+            "assignments": 8.5,
+            "probmlemSolving": 3.6,
+            "proactiveness": 1.3
+          },
+          {
+            "week": 5,
+            "logic": 9.7,
+            "grasping": 3.4,
+            "communication": 2.6,
+            "assignments": 5.1,
+            "probmlemSolving": 8.2,
+            "proactiveness": 6.9
+          },
+          {
+            "week": 6,
+            "logic": 3.5,
+            "grasping": 7.1,
+            "communication": 4.8,
+            "assignments": 3.2,
+            "probmlemSolving": 5.4,
+            "proactiveness": 2.1
+          },
+          {
+            "week": 7,
+            "logic": 1.8,
+            "grasping": 2.3,
+            "communication": 9.1,
+            "assignments": 7.6,
+            "probmlemSolving": 6.7,
+            "proactiveness": 4.2
+          },
+          {
+            "week": 8,
+            "logic": 7.2,
+            "grasping": 5.9,
+            "communication": 3.4,
+            "assignments": 9.0,
+            "probmlemSolving": 2.8,
+            "proactiveness": 9.6
+          },
+          {
+            "week": 9,
+            "logic": 6.4,
+            "grasping": 1.7,
+            "communication": 8.0,
+            "assignments": 6.8,
+            "probmlemSolving": 5.3,
+            "proactiveness": 7.5
+          },
+          {
+            "week": 10,
+            "logic": 2.1,
+            "grasping": 4.8,
+            "communication": 5.2,
+            "assignments": 3.5,
+            "probmlemSolving": 9.1,
+            "proactiveness": 3.7
+          }
+        ]
+      },
+      {
+        "name": "Person 22",
+        "batch": "B2",
+        "techTrack": "Golang",
+        "isAnalytical": true,
+        "isLogical": false,
+        "codewarsScore": 816,
+        "weeklyEvaluations": [
+          {
+            "week": 1,
+            "logic": 3.2,
+            "grasping": 9.5,
+            "communication": 7.1,
+            "assignments": 4.3,
+            "probmlemSolving": 6.8,
+            "proactiveness": 2.9
+          },
+          {
+            "week": 2,
+            "logic": 8.7,
+            "grasping": 0.4,
+            "communication": 3.2,
+            "assignments": 9.8,
+            "probmlemSolving": 2.1,
+            "proactiveness": 6.5
+          },
+          {
+            "week": 3,
+            "logic": 5.4,
+            "grasping": 7.2,
+            "communication": 1.6,
+            "assignments": 3.5,
+            "probmlemSolving": 8.3,
+            "proactiveness": 4.1
+          },
+          {
+            "week": 4,
+            "logic": 9.0,
+            "grasping": 1.8,
+            "communication": 5.7,
+            "assignments": 8.1,
+            "probmlemSolving": 4.2,
+            "proactiveness": 9.3
+          },
+          {
+            "week": 5,
+            "logic": 4.5,
+            "grasping": 5.3,
+            "communication": 2.4,
+            "assignments": 5.9,
+            "probmlemSolving": 7.6,
+            "proactiveness": 1.7
+          },
+          {
+            "week": 6,
+            "logic": 2.7,
+            "grasping": 8.9,
+            "communication": 4.1,
+            "assignments": 3.2,
+            "probmlemSolving": 5.1,
+            "proactiveness": 8.2
+          },
+          {
+            "week": 7,
+            "logic": 7.3,
+            "grasping": 3.1,
+            "communication": 9.0,
+            "assignments": 6.3,
+            "probmlemSolving": 2.5,
+            "proactiveness": 3.8
+          },
+          {
+            "week": 8,
+            "logic": 1.6,
+            "grasping": 6.4,
+            "communication": 5.2,
+            "assignments": 9.5,
+            "probmlemSolving": 3.7,
+            "proactiveness": 7.4
+          },
+          {
+            "week": 9,
+            "logic": 8.2,
+            "grasping": 2.3,
+            "communication": 3.8,
+            "assignments": 7.4,
+            "probmlemSolving": 9.1,
+            "proactiveness": 5.6
+          },
+          {
+            "week": 10,
+            "logic": 5.1,
+            "grasping": 4.7,
+            "communication": 1.9,
+            "assignments": 3.1,
+            "probmlemSolving": 8.5,
+            "proactiveness": 2.3
+          }
+        ],
+        "isFavorite": true
+      },
+      {
+        "name": "Person 23",
+        "batch": "B1",
+        "techTrack": "DevOps",
+        "isAnalytical": false,
+        "isLogical": true,
+        "codewarsScore": 559,
+        "weeklyEvaluations": [
+          {
+            "week": 1,
+            "logic": 8.4,
+            "grasping": 3.7,
+            "communication": 6.2,
+            "assignments": 9.2,
+            "probmlemSolving": 5.9,
+            "proactiveness": 1.8
+          },
+          {
+            "week": 2,
+            "logic": 2.1,
+            "grasping": 9.1,
+            "communication": 4.3,
+            "assignments": 4.9,
+            "probmlemSolving": 7.4,
+            "proactiveness": 5.2
+          },
+          {
+            "week": 3,
+            "logic": 7.0,
+            "grasping": 5.8,
+            "communication": 2.7,
+            "assignments": 2.1,
+            "probmlemSolving": 8.9,
+            "proactiveness": 3.5
+          },
+          {
+            "week": 4,
+            "logic": 3.9,
+            "grasping": 1.2,
+            "communication": 8.4,
+            "assignments": 7.7,
+            "probmlemSolving": 4.1,
+            "proactiveness": 9.7
+          },
+          {
+            "week": 5,
+            "logic": 9.2,
+            "grasping": 4.6,
+            "communication": 3.1,
+            "assignments": 5.4,
+            "probmlemSolving": 6.3,
+            "proactiveness": 2.9
+          },
+          {
+            "week": 6,
+            "logic": 5.1,
+            "grasping": 8.3,
+            "communication": 5.7,
+            "assignments": 3.6,
+            "probmlemSolving": 2.8,
+            "proactiveness": 6.4
+          },
+          {
+            "week": 7,
+            "logic": 2.3,
+            "grasping": 3.5,
+            "communication": 9.5,
+            "assignments": 6.8,
+            "probmlemSolving": 7.1,
+            "proactiveness": 4.7
+          },
+          {
+            "week": 8,
+            "logic": 8.0,
+            "grasping": 6.2,
+            "communication": 4.1,
+            "assignments": 8.7,
+            "probmlemSolving": 3.4,
+            "proactiveness": 8.9
+          },
+          {
+            "week": 9,
+            "logic": 4.3,
+            "grasping": 2.9,
+            "communication": 7.8,
+            "assignments": 7.0,
+            "probmlemSolving": 9.5,
+            "proactiveness": 6.2
+          },
+          {
+            "week": 10,
+            "logic": 1.9,
+            "grasping": 5.4,
+            "communication": 5.0,
+            "assignments": 3.3,
+            "probmlemSolving": 8.2,
+            "proactiveness": 1.5
+          }
+        ]
+      },
+      {
+        "name": "Person 24",
+        "batch": "B3",
+        "techTrack": "Angular",
+        "isAnalytical": true,
+        "isLogical": true,
+        "codewarsScore": 692,
+        "weeklyEvaluations": [
+          {
+            "week": 1,
+            "logic": 7.1,
+            "grasping": 4.2,
+            "communication": 8.7,
+            "assignments": 9.0,
+            "probmlemSolving": 6.5,
+            "proactiveness": 3.2
+          },
+          {
+            "week": 2,
+            "logic": 4.8,
+            "grasping": 9.8,
+            "communication": 2.4,
+            "assignments": 4.2,
+            "probmlemSolving": 8.1,
+            "proactiveness": 7.6
+          },
+          {
+            "week": 3,
+            "logic": 2.9,
+            "grasping": 7.5,
+            "communication": 6.3,
+            "assignments": 2.5,
+            "probmlemSolving": 4.7,
+            "proactiveness": 5.1
+          },
+          {
+            "week": 4,
+            "logic": 8.6,
+            "grasping": 0.3,
+            "communication": 9.2,
+            "assignments": 7.9,
+            "probmlemSolving": 3.2,
+            "proactiveness": 1.4
+          },
+          {
+            "week": 5,
+            "logic": 5.3,
+            "grasping": 3.1,
+            "communication": 4.6,
+            "assignments": 5.6,
+            "probmlemSolving": 7.4,
+            "proactiveness": 6.8
+          },
+          {
+            "week": 6,
+            "logic": 3.1,
+            "grasping": 6.7,
+            "communication": 7.4,
+            "assignments": 3.4,
+            "probmlemSolving": 5.9,
+            "proactiveness": 2.3
+          },
+          {
+            "week": 7,
+            "logic": 1.5,
+            "grasping": 2.9,
+            "communication": 9.9,
+            "assignments": 6.1,
+            "probmlemSolving": 6.2,
+            "proactiveness": 4.5
+          },
+          {
+            "week": 8,
+            "logic": 6.4,
+            "grasping": 5.6,
+            "communication": 5.3,
+            "assignments": 8.8,
+            "probmlemSolving": 2.5,
+            "proactiveness": 9.1
+          },
+          {
+            "week": 9,
+            "logic": 5.7,
+            "grasping": 1.4,
+            "communication": 8.5,
+            "assignments": 6.5,
+            "probmlemSolving": 5.1,
+            "proactiveness": 7.3
+          },
+          {
+            "week": 10,
+            "logic": 2.8,
+            "grasping": 4.3,
+            "communication": 6.1,
+            "assignments": 3.0,
+            "probmlemSolving": 8.9,
+            "proactiveness": 3.6
+          }
+        ]
+      }                  
+]

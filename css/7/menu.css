@@ -1,0 +1,33 @@
+/* body {
+    margin: 0;
+} */
+
+.menu {
+    padding: 8px 16px;
+    border: thin solid;
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+    transition: all 0.3s;
+    position: relative;
+}
+
+.menu:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.menu:hover .menu-list {
+    display: block;
+}
+
+.menu-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    border: thin solid;
+    display: none;
+    color: black;
+    background-color: white;
+}

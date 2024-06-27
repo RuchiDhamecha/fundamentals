@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.container {
+    padding: 8px;
+    background-color: cornflowerblue;
+}
+
+.float {
+    padding: 8px;
+    background-color: teal;
+    float: left;
+}
+
+.not-float {
+    padding: 16px;
+    background-color: #ccc;
+}

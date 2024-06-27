@@ -1,0 +1,43 @@
+/* element with both mediuem and class class */
+/* .medium.class {
+    color: black;
+} */
+
+div.class {
+    color: brown;
+}
+
+/* DO NOT DO THIS EVER */
+div {
+    color: red;
+}
+
+#id {
+    color: yellow;
+}
+
+.class {
+    color: darksalmon;
+}
+
+div {
+    color: silver;
+}
+
+#high {
+    color: blue;
+}
+
+.medium {
+    color: green;
+}
+
+/* element with class = class INSIDE element with class = medium */
+.medium .class {
+
+}
+
+/* apply style to both div and .class elements */
+div, .class {
+
+}

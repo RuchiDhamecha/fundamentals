@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+}
+
+html {
+    /* BAD PRACTICE */
+    font-size: 100%;
+    /* margin: 0; */
+}
+
+.header {
+    padding: 16px;
+    box-shadow: 0px 0px 4px 1px #ededed;
+}
+
+.section {
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0px 0px 4px 1px #ccc;
+    border-radius: 4px;
+}
+
+.pixels {
+    font-size: 24px;
+}
+
+.parent {
+    width: 500px;
+    height: 0px;
+    position: absolute;
+    padding: 16px;
+}
+
+.child {
+    /* font-size: 30px; */
+    width: 300px;
+    margin-top: 20%;
+    padding: 10%;
+    background-color: red;
+}
+
+.child span {
+    font-size: 10%;
+}
+
+/* % are no no */

@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.section {
+    padding: 16px;
+    border: thin solid #ccc;
+    border-radius: 4px;
+    margin: 16px 8px;
+
+    box-shadow: 0px 2px 8px 2px #ccc;
+    position: relative;
+}
+
+.section p {
+    margin: 0;
+}
+
+/* ::before */
+/* pseudo-element */
+.important::before {
+    content: '';
+    position: absolute;
+    top: 16px;
+    left: calc(100% - 24px);
+    padding: 4px;
+    background-color: red;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.important::before:hover {
+    /* DOES NOT WORK */
+    background-color: white;
+}
+
+/* pseudo-class */
+/* :active */
+/* :hover */
+
+.important:hover {
+    background-color: black;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.important:active {
+    background-color: rgb(33, 33, 33);
+}
+

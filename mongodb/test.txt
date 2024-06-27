@@ -1,0 +1,5 @@
+Find all inactive users whose names contain the letter "a".
+Update the favorite fruit of a user with ID "65cc5800427ff9467b036eba" to "apple".
+Update the company location of all users over 20 years old to "123 Main Street, New York, USA
+Find users with tags "consequat" and "id" and, if they're inactive, update their "isActive" status to true.
+find all users who have: At least one tag that starts with the letter "a". A company location in the state of "California".

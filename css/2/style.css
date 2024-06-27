@@ -1,0 +1,100 @@
+body {
+    /* margin: 0; */
+    background-color: red;
+    border: thin solid;
+}
+
+.content {
+    display: none;
+    background-color: tan;
+    /* width and height do not affect inline elements */
+    width: 100px;
+    /* NEVER USE HEIGHT */
+    height: 100px;
+}
+
+/* space between content and border */
+.padding {
+    display: none;
+    background-color: seagreen;
+
+    /* Top & Bottom padding on inline elements overlap other elements */
+    /* inline elements do not push content inwards from top and bottom */
+    /* NO TOP & BOTTOM PADDING ON INLINE ELEMENTS */
+    /*       T   R   B   L */
+    padding: 10px 12px 14px 16px;
+
+    /*       TB   RL */
+    padding: 10px 8px;
+
+    /*       TRBL */
+    padding: 8px;
+
+    padding-top: 10px;
+    padding-right: 16px;
+    padding-bottom: 4px;
+    padding-left: 2px;
+}
+
+.border {
+    display: none;
+    padding: 8px;
+    background-color: tomato;
+
+    border: thick solid black;
+    /* border: thin solid black; */
+    /* border: thick dotted black; */
+    /* border: thick dashed black; */
+    /* border: thick double black; */
+
+    border-radius: 50%;
+}
+
+.circle {
+    display: none;
+    width: 0;
+    height: 0;
+    font-size: 0;
+    padding: 50px;
+    border-radius: 50%;
+    background-color: darkcyan;
+}
+
+.dot {
+    display: none;
+    font-size: 0;
+    border: thin solid;
+}
+
+.margin {
+    display: none;
+    /* padding: 8px; */
+    border: thin solid;
+    /* Inline Elements are not affected with T&B margin */
+    /*      TRBL */
+    /* margin: 8px; */
+    /* margin: 10px 12px 14px 16px; */
+
+    /* margin: 8px 16px; */
+
+    /* margin-top: 8px;
+    margin-bottom: 10px;
+    margin-right: 12px;
+    margin-left: 16px; */
+
+}
+
+.negative-margin {
+    background-color: #ccc;
+    /* margin-top: -10px; */
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.m {
+    margin: 4px;
+}
+
+.mp {
+    margin: 8px;
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 100px;
+    /* border: thin solid; */
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    box-sizing: border-box;
+
+    position: relative;
+}
+
+.child {
+    position: absolute;
+    padding: 5px;
+    background-color: blue;
+    top: -10px;
+    left: 0px;
+}
+
+.child:nth-child(2) {
+    top: 0px;
+    left: 100%;
+    background-color: green;
+}
+
+.child:nth-child(3) {
+    /* top: 100px; */
+    top: 100%;
+    /* left: 90px; */
+    left: 90%;
+    background-color: red;
+}
+
+.child:nth-child(4) {
+    top: 90px;
+    left: -10px;
+    background-color: yellow;
+}

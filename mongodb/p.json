@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Alice",
+        "age": 20,
+        "favouriteColor": "blue",
+        "hobby": "badminton",
+        "purchases": {
+            "id": 1,
+            "product": "A",
+            "price": 1000,
+            "quantity": 5,
+            "specialization": {
+                "color": "black",
+                "ram": 20,
+                "screen": 31
+            }
+        }
+    },
+    {
+        "name": "Bob",
+        "age": 21,
+        "favouriteColor": "pink",
+        "hobby": "chess",
+        "purchases": {
+            "id": 2,
+            "product": "B",
+            "price": 1100,
+            "quantity": 6,
+            "specialization": {
+                "color": "green",
+                "ram": 21,
+                "screen": 25
+            }
+        }
+    },
+    {
+        "name": "John",
+        "age": 29,
+        "favouriteColor": "black",
+        "hobby": "code",
+        "purchases": {
+            "id": 1,
+            "product": "A",
+            "price": 2000,
+            "quantity": 10,
+            "specialization": {
+                "color": "pink",
+                "ram": 24,
+                "screen": 18
+            }
+        }
+    }
+]

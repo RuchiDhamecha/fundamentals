@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <div>
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="your name">
+        </div>
+        
+        <div>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="your email">
+        </div>
+
+        <div>
+            <label for="age">Age</label>
+            <input type="number" name="age" id="age" placeholder="your age" min="0" max="100">
+        </div>
+
+        <div>
+            <label for="dob">DOB</label>
+            <input type="date" name="dob" id="dob">
+        </div>
+
+        <div>
+            
+            <span>Gender</span>
+
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="male">
+
+            <label for="female">Female</label>
+            <input type="radio" name="gender" id="female">
+
+        </div>
+
+        <div>
+            
+            <span>Hobbies</span>
+
+            <label for="reading">Reading</label>
+            <input type="checkbox" name="hobby" id="reading">
+
+            <label for="sports">Sports</label>
+            <input type="checkbox" name="hobby" id="sports">
+        </div>
+
+        <div>
+            <label for="city">City</label>
+            <select name="city" id="city">
+                <option>Pune</option>
+                <option>Mumbai</option>
+                <option>Nagpur</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="message">Message</label>
+            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+        </div>
+
+        <div>
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </div>
+    </form>
+</body>
+
+</html>

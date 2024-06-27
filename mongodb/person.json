@@ -1,0 +1,28 @@
+[
+    {
+        "index": 0,
+        "name": "Aniruddha",
+        "isActive": false,
+        "registered": "2024-02-13T04:22:39+0000",
+        "age": long(20),
+        "gender": "male",
+        "eyeColor": "black",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "mr",
+            "email": "aniruddha.gohad@coditas.com",
+            "phone": "+1 (940) 501-3963",
+            "location": {
+                "country": "IND",
+                "address": "Kothrud Pune"
+            }
+        },
+        "tags": [
+            "chess",
+            "badminton",
+            "code",
+            "music",
+            "food"
+        ]
+    }
+]
